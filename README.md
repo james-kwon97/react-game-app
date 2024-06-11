@@ -1,1 +1,1 @@
-Games web app using React
+Refreshing my React knowledge
